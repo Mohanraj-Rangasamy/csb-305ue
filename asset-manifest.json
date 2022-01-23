@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mohanraj-rangasamy.github.io/csb-305ue/static/css/main.bc47950f.chunk.css",
+    "main.js": "https://mohanraj-rangasamy.github.io/csb-305ue/static/js/main.80eedd0b.chunk.js",
+    "main.js.map": "https://mohanraj-rangasamy.github.io/csb-305ue/static/js/main.80eedd0b.chunk.js.map",
+    "runtime-main.js": "https://mohanraj-rangasamy.github.io/csb-305ue/static/js/runtime-main.fe19613c.js",
+    "runtime-main.js.map": "https://mohanraj-rangasamy.github.io/csb-305ue/static/js/runtime-main.fe19613c.js.map",
+    "static/js/2.69b67d5d.chunk.js": "https://mohanraj-rangasamy.github.io/csb-305ue/static/js/2.69b67d5d.chunk.js",
+    "static/js/2.69b67d5d.chunk.js.map": "https://mohanraj-rangasamy.github.io/csb-305ue/static/js/2.69b67d5d.chunk.js.map",
+    "index.html": "https://mohanraj-rangasamy.github.io/csb-305ue/index.html",
+    "static/css/main.bc47950f.chunk.css.map": "https://mohanraj-rangasamy.github.io/csb-305ue/static/css/main.bc47950f.chunk.css.map",
+    "static/js/2.69b67d5d.chunk.js.LICENSE.txt": "https://mohanraj-rangasamy.github.io/csb-305ue/static/js/2.69b67d5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe19613c.js",
+    "static/js/2.69b67d5d.chunk.js",
+    "static/css/main.bc47950f.chunk.css",
+    "static/js/main.80eedd0b.chunk.js"
+  ]
+}
